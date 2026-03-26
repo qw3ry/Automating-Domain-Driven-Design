@@ -18,8 +18,9 @@ To use this framework, you need a LLM-readable file - for example, markdown or p
 ## Requirements files
 
 The [requirements](/requirements/) in this repository have been used to evaluate the prompting framework in a case study. For the full details of the case study, please read the original paper.
-The requirements describe the two software systems [SecuRooms](/requirements/SecuRooms.md) and [SecuMails](/requirements/SecuMails.md), developed at [FTAPI Software GmbH](ftapi.com). The actual requirements at FTAPI are suspect to change and might not match these requirements exactly in the future.
+The requirements describe the two software systems [SecuRooms](/requirements/SecuRooms.md) and [SecuMails](/requirements/SecuMails.md), developed at [FTAPI Software GmbH](http://ftapi.com). The actual requirements at FTAPI are suspect to change and might not match these requirements exactly in the future.
 
 ## Evaluation
 
 The prompting framework was evaluated in structured interviews with experts from FTAPI. For privacy reasons, the full interview transcripts are not included, but the [structure of the interview](/interview-structure.md) is available.
+The generated diagrams used for the interviews are available in the [generated-diagrams](/generated-diagrams/) folder.

@@ -1,3 +1,3 @@
 This work is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by-nc/4.0/ or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
 
-Parts of this work originate from https://github.com/HuseinJ/thesis and are suspect to the same license.
+Large parts of this work originate from the thesis "AI-Assisted Domain Modeling: Enhanced Bounded Context Extraction with LLMs" by Husein Jusic, available at https://github.com/HuseinJ/thesis under the same license.

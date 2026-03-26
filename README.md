@@ -1,5 +1,6 @@
 # Automating Domain-Driven Design
 
+[![DOI](https://zenodo.org/badge/1110679097.svg)](https://doi.org/10.5281/zenodo.17832118)
 [![CC BY-NC 4.0](https://img.shields.io/badge/License-CC_BY--NC_4.0-informational?logo=creativecommons&logoColor=white)
 ](https://creativecommons.org/licenses/by-nc/4.0/)
 
